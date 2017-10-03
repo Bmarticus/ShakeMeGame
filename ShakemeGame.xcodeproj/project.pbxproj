@@ -13,6 +13,7 @@
 		D3E722ED1F82F74000840422 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3E722EB1F82F74000840422 /* Main.storyboard */; };
 		D3E722EF1F82F74000840422 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D3E722EE1F82F74000840422 /* Assets.xcassets */; };
 		D3E722F21F82F74000840422 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3E722F01F82F74000840422 /* LaunchScreen.storyboard */; };
+		D3E722FA1F83143B00840422 /* bop-it-85656275.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D3E722F91F83143B00840422 /* bop-it-85656275.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		D3E722EE1F82F74000840422 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D3E722F11F82F74000840422 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D3E722F31F82F74000840422 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3E722F91F83143B00840422 /* bop-it-85656275.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "bop-it-85656275.jpg"; path = "../../../../../Downloads/bop-it-85656275.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		D3E722E21F82F74000840422 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D3E722F91F83143B00840422 /* bop-it-85656275.jpg */,
 				D3E722E31F82F74000840422 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -139,6 +142,7 @@
 			files = (
 				D3E722F21F82F74000840422 /* LaunchScreen.storyboard in Resources */,
 				D3E722EF1F82F74000840422 /* Assets.xcassets in Resources */,
+				D3E722FA1F83143B00840422 /* bop-it-85656275.jpg in Resources */,
 				D3E722ED1F82F74000840422 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
