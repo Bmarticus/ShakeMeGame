@@ -82,7 +82,7 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bop-it-85656275.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="D4b-th-XFo">
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="bop-it-85656275" translatesAutoresizingMaskIntoConstraints="NO" id="D4b-th-XFo">
                                 <rect key="frame" x="46" y="476" width="282" height="191"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -116,6 +116,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="bop-it-85656275.jpg" width="336" height="190"/>
+        <image name="bop-it-85656275" width="336" height="190"/>
     </resources>
 </document>
